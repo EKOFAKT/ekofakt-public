@@ -1,0 +1,26 @@
+{
+    "group": [
+        {
+            "title": "I. kategorie",
+            "value": 1
+        },
+        {
+            "title": "II. kategorie",
+            "value": 2
+        }
+    ],
+    "creation": [
+        {
+            "title": "plošné zobrazení"
+        },
+        {
+            "title": "prostorové zobrazení"
+        },
+        {
+            "title": "fotografie, fotopříběh"
+        },
+        {
+            "title": "krátký film"
+        }
+    ]
+}
