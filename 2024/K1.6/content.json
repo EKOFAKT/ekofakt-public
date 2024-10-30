@@ -1,0 +1,20 @@
+{
+    "address": {
+        "name": "Základní škola a Mateřská škola Janovice 410, okres Frýdek-Místek",
+        "PN": "739 11",
+        "village": "Frýdlant nad Ostravicí"
+    },
+    "authors": [
+        "Nikol Kunštárová",
+        "Markéta Muroňová",
+        "Mia Vrecková"
+    ],
+    "files": {
+        "images": [
+            "Doprovodný příběh hyena.jpg",
+            "hyena 1.jpg",
+            "hyena 2.jpg"
+        ]
+    },
+    "story": "story.txt"
+}
