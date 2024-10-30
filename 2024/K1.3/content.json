@@ -1,0 +1,19 @@
+{
+    "address": {
+        "name": "Základní škola a Mateřská škola Janovice 410, okres Frýdek-Místek",
+        "PN": "739 11",
+        "village": "Frýdlant nad Ostravicí"
+    },
+    "authors": [
+        "Valerie Holišová",
+        "Miroslav Gřunděl"
+    ],
+    "files": {
+        "images": [
+            "Doprovodný příběh liška.jpg",
+            "liška 1.jpg",
+            "liška 2.jpg"
+        ]
+    },
+    "story": "story.txt"
+}
