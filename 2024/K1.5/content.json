@@ -1,0 +1,19 @@
+{
+    "address": {
+        "name": "Základní škola a Mateřská škola Janovice 410, okres Frýdek-Místek",
+        "PN": "739 11",
+        "village": "Frýdlant nad Ostravicí"
+    },
+    "authors": [
+        "Sofie Škarabelová",
+        "Johana Anna Štrichová"
+    ],
+    "files": {
+        "images": [
+            "Doprovodný příběh sup.jpg",
+            "sup 1.jpg",
+            "sup 2.jpg"
+        ]
+    },
+    "story": "story.txt"
+}
