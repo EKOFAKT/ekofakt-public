@@ -1,0 +1,20 @@
+{
+    "address": {
+        "name": "Základní škola a Mateřská škola Janovice 410, okres Frýdek-Místek",
+        "PN": "739 11",
+        "village": "Frýdlant nad Ostravicí"
+    },
+    "authors": [
+        "Vojtěch Leták",
+        "Tobiáš Zeman",
+        "Oliver Radomský"
+    ],
+    "files": {
+        "images": [
+            "Doprovodný příběh varan.jpg",
+            "varan 1.jpg",
+            "varan 2.jpg"
+        ]
+    },
+    "story": "story.txt"
+}
