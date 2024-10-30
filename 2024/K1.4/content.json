@@ -1,0 +1,20 @@
+{
+    "address": {
+        "name": "Základní škola a Mateřská škola Janovice 410, okres Frýdek-Místek",
+        "PN": "739 11",
+        "village": "Frýdlant nad Ostravicí"
+    },
+    "authors": [
+        "Kryštof Farkaš",
+        "Marcel Marcus Ševčík",
+        "Filip Kurpil"
+    ],
+    "files": {
+        "images": [
+            "Doprovodný příběh mrchožrout.jpg",
+            "mrchožrout 1.jpg",
+            "mrchožrout 2.jpg"
+        ]
+    },
+    "story": "story.txt"
+}
