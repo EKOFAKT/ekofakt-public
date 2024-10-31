@@ -1,0 +1,17 @@
+{
+    "address": {
+        "name": "Gymnázium, Ostrava-Zábřeh, Volgogradská 6a, příspěvková organizace",
+        "PN": "700 30",
+        "village": "Ostrava-Zábřeh"
+    },
+    "authors": [
+        "Adina Mihulová",
+        "Anna Ševčíková"
+    ],
+    "files": {
+        "images": [
+            "Ekohrdina AMAS.jpg"
+        ]
+    },
+    "story": "story.txt"
+}
