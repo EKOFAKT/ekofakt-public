@@ -1,0 +1,19 @@
+{
+    "address": {
+        "name": "Základní škola Slezská Ostrava, Chrustova 24, příspěvková organizace",
+        "PN": "713 00",
+        "village": "Slezská Ostrava"
+    },
+    "authors": [
+        "Karolína Králová",
+        "Silvie Hefková",
+        "Olga Vavříčková"
+    ],
+    "files": {
+        "images": [
+            "Ekohrdinové 7.A.jpg",
+            "Ekohrdinové 7.B.jpg"
+        ]
+    },
+    "story": "story.txt"
+}
