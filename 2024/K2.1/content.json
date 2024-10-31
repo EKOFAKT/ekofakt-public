@@ -1,0 +1,18 @@
+{
+    "address": {
+        "name": "Základní škola Příbor, Jičínská 486, okres Nový Jičín",
+        "PN": "742 58",
+        "village": "Příbor"
+    },
+    "authors": [
+        "Kristýna Dybalová"
+    ],
+    "files": {
+        "images": [
+            "1729188986071.jpg",
+            "1729188986061.jpg",
+            "1729188986051.jpg"
+        ]
+    },
+    "story": "story.txt"
+}
