@@ -1,0 +1,17 @@
+{
+    "address": {
+        "name": "Gymnázium, Ostrava-Zábřeh, Volgogradská 6a, příspěvková organizace",
+        "PN": "700 30",
+        "village": "Ostrava-Zábřeh"
+    },
+    "authors": [
+        "Johana Kanclířová",
+        "Lucie Dvořáčková"
+    ],
+    "files": {
+        "images": [
+            "840329cb-ee89-47cd-8501-0c35fb4108be.jpeg"
+        ]
+    },
+    "story": "story.txt"
+}
