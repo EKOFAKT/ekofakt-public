@@ -1,12 +1,10 @@
 {
-    "group": [
+    "age": [
         {
-            "title": "I. kategorie",
-            "value": 1
+            "title": "I. kategorie"
         },
         {
-            "title": "II. kategorie",
-            "value": 2
+            "title": "II. kategorie"
         }
     ],
     "creation": [
