@@ -1,0 +1,18 @@
+{
+    "address": {
+        "name": "Gymnázium, Ostrava-Zábřeh, Volgogradská 6a, příspěvková organizace",
+        "PN": "700 30",
+        "village": "Ostrava-Zábřeh"
+    },
+    "authors": [
+        "Ema Dlabajová"
+    ],
+    "files": {
+        "images": [
+            "zelva 1.jpg",
+            "zelva 2.jpg",
+            "zelva 3.jpg"
+        ]
+    },
+    "story": "story.txt"
+}
