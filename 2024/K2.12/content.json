@@ -1,0 +1,22 @@
+{
+    "address": {
+        "name": "ZŠ a MŠ Kozlovice, Kozlovice 186",
+        "PN": "739 47",
+        "village": "Kozlovice"
+    },
+    "authors": [
+        "Barbora Zemanová"
+    ],
+    "files": {
+        "images": [
+            "Ekohrdina Eda 1.jpeg",
+            "Ekohrdina Eda 2.jpeg",
+            "Ekohrdina Eda 3.jpeg",
+            "Ekohrdina Eda 4.jpeg",
+            "Ekohrdina Eda 5.jpeg",
+            "Ekohrdina Eda 6.jpeg",
+            "Ekohrdina Eda 7.jpeg"
+        ]
+    },
+    "story": "story.txt"
+}

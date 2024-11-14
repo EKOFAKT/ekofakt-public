@@ -1,0 +1,17 @@
+{
+    "address": {
+        "name": "Gymnázium, Ostrava-Zábřeh, Volgogradská 6a, příspěvková organizace",
+        "PN": "700 30",
+        "village": "Ostrava-Zábřeh"
+    },
+    "authors": [
+        "Nina Cisovská"
+    ],
+    "files": {
+        "images": [
+            "IMG_20241113_203522.jpg",
+            "IMG_20241113_203906.jpg"
+        ]
+    },
+    "story": "story.txt"
+}

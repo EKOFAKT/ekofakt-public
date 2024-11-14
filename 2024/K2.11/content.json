@@ -1,0 +1,18 @@
+{
+    "address": {
+        "name": "Gymnázium, Ostrava-Zábřeh, Volgogradská 6a, příspěvková organizace",
+        "PN": "700 30",
+        "village": "Ostrava-Zábřeh"
+    },
+    "authors": [
+        "Gatnar Daniel",
+        "Martínek Marek",
+        "Zezulka Marek"
+    ],
+    "files": {
+        "videos": [
+            "https://drive.google.com/file/d/1tg6OD_RGzWzd9DHcRYlbX7qAF_WYAn8H/preview"
+        ]
+    },
+    "story": "story.txt"
+}
