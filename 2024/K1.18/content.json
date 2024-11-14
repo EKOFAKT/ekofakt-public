@@ -1,0 +1,16 @@
+{
+    "address": {
+        "name": "ZŠ a MŠ Kozlovice, Kozlovice 186",
+        "PN": "739 47",
+        "village": "Kozlovice"
+    },
+    "authors": [
+        "Jan Zahradník"
+    ],
+    "files": {
+        "images": [
+            "K1.18.jpg"
+        ]
+    },
+    "story": "story.txt"
+}
