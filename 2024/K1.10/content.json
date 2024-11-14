@@ -1,0 +1,18 @@
+{
+    "address": {
+        "name": "Základní škola a mateřská škola U Lesa, U Lesa 743",
+        "PN": "734 01",
+        "village": "Karviná-Ráj"
+    },
+    "authors": [
+        "Jiří Viktorín",
+        "Klára Moravčinská",
+        "Nela Malyjurková"
+    ],
+    "files": {
+        "images": [
+            "O krtkovi a žížalce.jpg"
+        ]
+    },
+    "story": "story.txt"
+}

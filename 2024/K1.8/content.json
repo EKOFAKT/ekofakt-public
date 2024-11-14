@@ -1,0 +1,18 @@
+{
+    "address": {
+        "name": "Základní škola a mateřská škola U Lesa, U Lesa 743",
+        "PN": "734 01",
+        "village": "Karviná-Ráj"
+    },
+    "authors": [
+        "Samuel Wróbel",
+        "Kristian Hajduk",
+        "Petr Madzia"
+    ],
+    "files": {
+        "images": [
+            "Ještěrka Alex.jpg"
+        ]
+    },
+    "story": "story.txt"
+}

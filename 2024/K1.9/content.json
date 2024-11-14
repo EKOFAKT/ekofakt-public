@@ -1,0 +1,17 @@
+{
+    "address": {
+        "name": "Základní škola a mateřská škola U Lesa, U Lesa 743",
+        "PN": "734 01",
+        "village": "Karviná-Ráj"
+    },
+    "authors": [
+        "Dominik Weiss",
+        "Michael Pastuszek"
+    ],
+    "files": {
+        "images": [
+            "Ekoďák.jpg"
+        ]
+    },
+    "story": "story.txt"
+}
