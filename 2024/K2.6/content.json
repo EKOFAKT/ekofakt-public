@@ -1,0 +1,19 @@
+{
+    "address": {
+        "name": "Gymnázium, Ostrava-Zábřeh, Volgogradská 6a, příspěvková organizace",
+        "PN": "700 30",
+        "village": "Ostrava-Zábřeh"
+    },
+    "authors": [
+        "Adam Bergmann",
+        "Matyáš Sikora",
+        "Jan Hrdý"
+    ],
+    "files": {
+        "images": [
+            "K2.6_1.jpg",
+            "K2.6_2.jpg"
+        ]
+    },
+    "story": "story.txt"
+}

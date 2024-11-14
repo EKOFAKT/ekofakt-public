@@ -1,0 +1,17 @@
+{
+    "address": {
+        "name": "Gymnázium, Ostrava-Zábřeh, Volgogradská 6a, příspěvková organizace",
+        "PN": "700 30",
+        "village": "Ostrava-Zábřeh"
+    },
+    "authors": [
+        "Zuzana Gelnarová",
+        "Zuzana Margicinová"
+    ],
+    "files": {
+        "images": [
+            "IMG_20241109_181418.jpg"
+        ]
+    },
+    "story": "story.txt"
+}

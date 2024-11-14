@@ -1,0 +1,16 @@
+{
+    "address": {
+        "name": "Gymnázium, Ostrava-Zábřeh, Volgogradská 6a, příspěvková organizace",
+        "PN": "700 30",
+        "village": "Ostrava-Zábřeh"
+    },
+    "authors": [
+        "Filip Mrhálek"
+    ],
+    "files": {
+        "videos": [
+            "https://drive.google.com/file/d/10DLEThpK7py0EH-eBV-0U4niQ1igtkaU/view?usp=drive_link"
+        ]
+    },
+    "story": "story.html"
+}

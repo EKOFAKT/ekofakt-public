@@ -1,0 +1,18 @@
+{
+    "address": {
+        "name": "Gymnázium, Ostrava-Zábřeh, Volgogradská 6a, příspěvková organizace",
+        "PN": "700 30",
+        "village": "Ostrava-Zábřeh"
+    },
+    "authors": [
+        "Sofie Ráblová",
+        "Anna Hrabcová"
+    ],
+    "files": {
+        "images": [
+            "IMG20241112181452.jpg",
+            "IMG20241112181413.jpg"
+        ]
+    },
+    "story": "story.txt"
+}
