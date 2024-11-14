@@ -1,0 +1,16 @@
+{
+    "address": {
+        "name": "Gymnázium, Ostrava-Zábřeh, Volgogradská 6a, příspěvková organizace",
+        "PN": "700 30",
+        "village": "Ostrava-Zábřeh"
+    },
+    "authors": [
+        "Elen Kantorová"
+    ],
+    "files": {
+        "images": [
+            "image0.jpg"
+        ]
+    },
+    "story": "story.txt"
+}

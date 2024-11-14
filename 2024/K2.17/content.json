@@ -1,0 +1,16 @@
+{
+    "address": {
+        "name": "ZŠ Tyršova 913",
+        "PN": "744 01",
+        "village": "Frenštát pod Radhoštěm"
+    },
+    "authors": [
+        "Nikol Kladivová"
+    ],
+    "files": {
+        "images": [
+            "IMG_20241114_120246.jpg"
+        ]
+    },
+    "story": "story.html"
+}

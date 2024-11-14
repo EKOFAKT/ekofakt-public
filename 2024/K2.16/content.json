@@ -1,0 +1,18 @@
+{
+    "address": {
+        "name": "Gymnázium, Ostrava-Zábřeh, Volgogradská 6a, příspěvková organizace",
+        "PN": "700 30",
+        "village": "Ostrava-Zábřeh"
+    },
+    "authors": [
+        "Eliška Ledvinková",
+        "Jolana Vymětalová "
+    ],
+    "files": {
+        "images": [
+            "IMG_20241114_191444.jpg",
+            "IMG_20241114_191508.jpg"
+        ]
+    },
+    "story": "story.txt"
+}

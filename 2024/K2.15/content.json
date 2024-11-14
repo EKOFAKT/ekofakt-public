@@ -1,0 +1,18 @@
+{
+    "address": {
+        "name": "Gymnázium, Ostrava-Zábřeh, Volgogradská 6a, příspěvková organizace",
+        "PN": "700 30",
+        "village": "Ostrava-Zábřeh"
+    },
+    "authors": [
+        "Matěj Dobeš",
+        "Filip Mrhálek",
+        "David Papík"
+    ],
+    "files": {
+        "videos": [
+            "https://drive.google.com/file/d/19T4mTKE7mcsKv6IiscgyEEYLeTbO3m8x/preview"
+        ]
+    },
+    "story": "story.txt"
+}
