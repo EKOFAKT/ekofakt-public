@@ -1,0 +1,16 @@
+{
+    "address": {
+        "name": "Základní škola a Mateřská škola, Baška, příspěvková organizace",
+        "PN": "739 01",
+        "village": "Baška"
+    },
+    "authors": [
+        "Viktorie Bereková"
+    ],
+    "files": {
+        "images": [
+            "Obrázek Viki.jpg"
+        ]
+    },
+    "story": "story.html"
+}

@@ -1,0 +1,18 @@
+{
+    "address": {
+        "name": "Základní škola Město Albrechtice, Opavická 1, okres Bruntál",
+        "PN": "793 95",
+        "village": "Město Albrechtice"
+    },
+    "authors": [
+        "Jozefína Vranková",
+        "Tereza Boháčová",
+        "Natálie Polková"
+    ],
+    "files": {
+        "videos": [
+            "https://www.youtube.com/embed/MR0nA1AN4qI"
+        ]
+    },
+    "story": "story.txt"
+}
