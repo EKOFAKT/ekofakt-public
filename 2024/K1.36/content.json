@@ -1,0 +1,21 @@
+{
+    "address": {
+        "name": "Základní škola a Mateřská škola Bohumín – Skřečoň 1.máje 217 okres Karviná, příspěvková organizace",
+        "PN": "735 31",
+        "village": "Bohumín"
+    },
+    "authors": [
+        "Zuzana Pálková",
+        "Luna Hodlová",
+        "Keana Hodlová"
+    ],
+    "files": {
+        "images": [
+            "Příběh č. 12 (video).jpg"
+        ],
+        "videos": [
+            "https://drive.google.com/file/d/1Zr7TibTY4hKn0UoguQecgXRUlnBGz0VX/preview"
+        ]
+    },
+    "story": "story.txt"
+}
