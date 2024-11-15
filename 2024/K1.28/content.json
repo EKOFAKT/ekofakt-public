@@ -1,0 +1,17 @@
+{
+    "address": {
+        "name": "Základní škola a Mateřská škola Bohumín – Skřečoň 1.máje 217 okres Karviná, příspěvková organizace",
+        "PN": "735 31",
+        "village": "Bohumín"
+    },
+    "authors": [
+        "Dominik Chechelský"
+    ],
+    "files": {
+        "images": [
+            "Příběh č.4.jpg",
+            "Obrázek č.4.jpg"
+        ]
+    },
+    "story": "story.txt"
+}

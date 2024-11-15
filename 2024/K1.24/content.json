@@ -1,0 +1,16 @@
+{
+    "address": {
+        "name": "Základní škola Ostrava – Zábřeh, Jugoslávská 23, příspěvková organizace",
+        "PN": "700 30",
+        "village": "Ostrava-Zábřeh"
+    },
+    "authors": [
+        "Kateřina Suchánková"
+    ],
+    "files": {
+        "images": [
+            "IMG_20241115_232412.jpg"
+        ]
+    },
+    "story": "story.txt"
+}

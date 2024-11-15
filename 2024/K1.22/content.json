@@ -1,0 +1,19 @@
+{
+    "address": {
+        "name": "Základní škola Kopřivnice, Alšova 1123",
+        "PN": "742 21",
+        "village": "Kopřivnice"
+    },
+    "authors": [
+        "třída 5.A"
+    ],
+    "files": {
+        "images": [
+            "IMG_20241111_122934.jpg",
+            "IMG_20241111_123341.jpg",
+            "IMG_20241111_122809.jpg",
+            "image_50738689.jpg"
+        ]
+    },
+    "story": "story.txt"
+}
