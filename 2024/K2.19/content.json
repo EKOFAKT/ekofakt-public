@@ -1,0 +1,19 @@
+{
+    "address": {
+        "name": "Gymnázium, Ostrava-Zábřeh, Volgogradská 6a, příspěvková organizace",
+        "PN": "700 30",
+        "village": "Ostrava-Zábřeh"
+    },
+    "authors": [
+        "Stela Slížová",
+        "Martin Jungmann"
+    ],
+    "files": {
+        "images": [
+            "IMG_20241115_061946.jpg",
+            "IMG_20241115_061958.jpg",
+            "IMG_20241115_062006.jpg"
+        ]
+    },
+    "story": "story.txt"
+}

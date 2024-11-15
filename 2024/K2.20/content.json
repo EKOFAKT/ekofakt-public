@@ -1,0 +1,16 @@
+{
+    "address": {
+        "name": "Základní škola Příbor, Jičínská 486, okres Nový Jičín",
+        "PN": "742 58",
+        "village": "Příbor"
+    },
+    "authors": [
+        "Tereza Hodinová"
+    ],
+    "files": {
+        "images": [
+            "Ekohrdina.jpg"
+        ]
+    },
+    "story": "story.txt"
+}

@@ -1,0 +1,18 @@
+{
+    "address": {
+        "name": "Základní škola Příbor, Jičínská 486, okres Nový Jičín",
+        "PN": "742 58",
+        "village": "Příbor"
+    },
+    "authors": [
+        "Eliška Ondrejková",
+        "Elena Nováková",
+        "Marie Částková"
+    ],
+    "files": {
+        "images": [
+            "K2.22.jpg"
+        ]
+    },
+    "story": "story.txt"
+}
