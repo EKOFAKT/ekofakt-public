@@ -1,0 +1,16 @@
+{
+    "address": {
+        "name": "Základní škola a Mateřská škola Štramberk",
+        "PN": "742 66",
+        "village": "Štramberk"
+    },
+    "authors": [
+        "Tadeáš Kuběna"
+    ],
+    "files": {
+        "images": [
+            "IMG_0001.jpg"
+        ]
+    },
+    "story": "story.html"
+}

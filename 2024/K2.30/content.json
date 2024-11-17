@@ -1,0 +1,16 @@
+{
+    "address": {
+        "name": "Základní škola a Mateřská škola Štramberk",
+        "PN": "742 66",
+        "village": "Štramberk"
+    },
+    "authors": [
+        "Selena Sendrei"
+    ],
+    "files": {
+        "images": [
+            "Selena Sendrei.jpg"
+        ]
+    },
+    "story": "story.txt"
+}

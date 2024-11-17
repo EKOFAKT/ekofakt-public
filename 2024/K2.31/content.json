@@ -1,0 +1,16 @@
+{
+    "address": {
+        "name": "Základní škola a Mateřská škola Štramberk",
+        "PN": "742 66",
+        "village": "Štramberk"
+    },
+    "authors": [
+        "Oliver Váňa"
+    ],
+    "files": {
+        "images": [
+            "Oliver Váňa.jpg"
+        ]
+    },
+    "story": "story.txt"
+}
