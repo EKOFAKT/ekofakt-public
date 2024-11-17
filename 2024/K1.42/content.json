@@ -1,0 +1,16 @@
+{
+    "address": {
+        "name": "ZŠ Šrámkova, Šrámkova 4, příspěvková organizace",
+        "PN": "747 05",
+        "village": "Opava"
+    },
+    "authors": [
+        "Ema Axmanová"
+    ],
+    "files": {
+        "images": [
+            "IMG_20241116_083402.jpg"
+        ]
+    },
+    "story": "story.txt"
+}
