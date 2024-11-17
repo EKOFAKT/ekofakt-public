@@ -1,0 +1,19 @@
+{
+    "address": {
+        "name": "Gymnázium Josefa Božka, Český Těšín, Frýdecká 30",
+        "PN": "737 01",
+        "village": "Český Těšín"
+    },
+    "authors": [
+        "Prokop Lapúnik"
+    ],
+    "files": {
+        "images": [
+            "IMG-20241115-WA0003.jpg",
+            "IMG-20241115-WA0002.jpg",
+            "IMG_20241115_153057.jpg",
+            "IMG_20241114_230217.jpg"
+        ]
+    },
+    "story": "story.txt"
+}
