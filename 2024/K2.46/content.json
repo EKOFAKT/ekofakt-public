@@ -1,0 +1,16 @@
+{
+    "address": {
+        "name": "Základní škola Kopřivnice",
+        "PN": "742 21",
+        "village": "Kopřivnice"
+    },
+    "authors": [
+        "Klaudie Paseková"
+    ],
+    "files": {
+        "images": [
+            "IMG_5488.jpg"
+        ]
+    },
+    "story": "story.txt"
+}

@@ -1,0 +1,16 @@
+{
+    "address": {
+        "name": "Základní škola Kopřivnice",
+        "PN": "742 21",
+        "village": "Kopřivnice"
+    },
+    "authors": [
+        "Emma Kovaříková"
+    ],
+    "files": {
+        "images": [
+            "IMG_5575 Copy Copy.jpeg"
+        ]
+    },
+    "story": "story.txt"
+}

@@ -1,0 +1,16 @@
+{
+    "address": {
+        "name": "Gymnázium, Ostrava-Zábřeh, Volgogradská 6a, příspěvková organizace",
+        "PN": "700 30",
+        "village": "Ostrava-Zábřeh"
+    },
+    "authors": [
+        "Jan Martinát"
+    ],
+    "files": {
+        "videos": [
+            "https://drive.google.com/file/d/1Gt3lFvAaQZ7wHNXekUHUNq1ZzYONX4QS/preview"
+        ]
+    },
+    "story": "story.txt"
+}
