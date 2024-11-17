@@ -1,0 +1,16 @@
+{
+    "address": {
+        "name": "Základní škola Frýdek-Místek, Československé armády 570",
+        "PN": "738 01",
+        "village": "Frýdek-Místek"
+    },
+    "authors": [
+        "Marcus Myslikovjan"
+    ],
+    "files": {
+        "images": [
+            "IMG_20241115_112434.jpg"
+        ]
+    },
+    "story": "story.txt"
+}

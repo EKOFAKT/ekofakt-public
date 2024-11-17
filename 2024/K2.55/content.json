@@ -1,0 +1,16 @@
+{
+    "address": {
+        "name": "Základní škola Frýdek-Místek, Československé armády 570",
+        "PN": "738 01",
+        "village": "Frýdek-Místek"
+    },
+    "authors": [
+        "Bozhan Lesia"
+    ],
+    "files": {
+        "images": [
+            "IMG_20241115_112602.jpg"
+        ]
+    },
+    "story": "story.txt"
+}

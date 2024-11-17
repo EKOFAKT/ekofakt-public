@@ -1,0 +1,18 @@
+{
+    "address": {
+        "name": "Základní škola Kopřivnice",
+        "PN": "742 21",
+        "village": "Kopřivnice"
+    },
+    "authors": [
+        "David Zelenka",
+        "Lucas Berta"
+    ],
+    "files": {
+        "images": [
+            "IMG_20241115_145848.jpg",
+            "IMG_20241115_145844.jpg"
+        ]
+    },
+    "story": "story.html"
+}

@@ -1,0 +1,17 @@
+{
+    "address": {
+        "name": "Základní škola Opava, Otická 18",
+        "PN": "746 01",
+        "village": "Opava"
+    },
+    "authors": [
+        "Kateřina Baierová"
+    ],
+    "files": {
+        "images": [
+            "20241115_154042.jpg",
+            "20241115_154022.jpg"
+        ]
+    },
+    "story": "story.html"
+}

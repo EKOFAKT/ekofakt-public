@@ -1,0 +1,17 @@
+{
+    "address": {
+        "name": "Gymnázium, Ostrava-Zábřeh, Volgogradská 6a, příspěvková organizace",
+        "PN": "700 30",
+        "village": "Ostrava-Zábřeh"
+    },
+    "authors": [
+        "Cigler Vojtěch",
+        "Výtisk Ondřej"
+    ],
+    "files": {
+        "videos": [
+            "https://drive.google.com/file/d/1u3brpAAzaFGWpjczlFr53itf2Ihi8CT5/preview"
+        ]
+    },
+    "story": "story.txt"
+}

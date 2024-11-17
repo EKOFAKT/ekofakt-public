@@ -1,0 +1,17 @@
+{
+    "address": {
+        "name": "Základní škola Frýdek-Místek, Československé armády 570",
+        "PN": "738 01",
+        "village": "Frýdek-Místek"
+    },
+    "authors": [
+        "Adéla Běhálková",
+        "Tereza Mašlonková"
+    ],
+    "files": {
+        "images": [
+            "IMG_20241115_112748.jpg"
+        ]
+    },
+    "story": "story.txt"
+}
