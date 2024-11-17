@@ -1,0 +1,19 @@
+{
+    "address": {
+        "name": "ZŠ Šrámkova, Šrámkova 4, příspěvková organizace",
+        "PN": "747 05",
+        "village": "Opava"
+    },
+    "authors": [
+        "Lucie Švrčinová",
+        "Semeniuta Yuliia"
+    ],
+    "files": {
+        "images": [
+            "71FFE228-3B08-4A71-96DF-9AF69E8AAC90.jpeg",
+            "7FD746D1-B572-430B-938B-CFFB70AE4D8A.jpeg",
+            "F277FF77-59EC-4F98-AFEB-796984E25B18.jpeg"
+        ]
+    },
+    "story": "story.txt"
+}

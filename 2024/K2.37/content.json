@@ -1,0 +1,18 @@
+{
+    "address": {
+        "name": "Základní škola Hlučín - Rovniny, okres Opava",
+        "PN": "748 01",
+        "village": "Hlučín"
+    },
+    "authors": [
+        "Barbora Golová"
+    ],
+    "files": {
+        "images": [
+            "IMG_9783.jpeg",
+            "IMG_9784.jpeg",
+            "Golová Doprovodný příběh_page-0001.jpg"
+        ]
+    },
+    "story": "story.txt"
+}

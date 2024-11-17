@@ -1,0 +1,18 @@
+{
+    "address": {
+        "name": "Základní škola Morávka, okres Frýdek-Místek",
+        "PN": "739 04",
+        "village": "Pražmo"
+    },
+    "authors": [
+        "Lukáš Görlich",
+        "Jaroslav Kerl",
+        "Oliver Lekki"
+    ],
+    "files": {
+        "videos": [
+            "https://www.youtube.com/embed/k8GIr0ev--U"
+        ]
+    },
+    "story": "story.txt"
+}

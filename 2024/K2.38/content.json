@@ -1,0 +1,17 @@
+{
+    "address": {
+        "name": "Základní škola Hlučín - Rovniny, okres Opava",
+        "PN": "748 01",
+        "village": "Hlučín"
+    },
+    "authors": [
+        "Natálie Lochová"
+    ],
+    "files": {
+        "images": [
+            "K2.38.jpg",
+            "K2.38_story"
+        ]
+    },
+    "story": "story.txt"
+}
