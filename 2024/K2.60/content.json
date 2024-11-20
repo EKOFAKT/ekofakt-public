@@ -1,0 +1,18 @@
+{
+    "address": {
+        "name": "????? Gymnázium, Ostrava-Zábřeh, Volgogradská 6a, příspěvková organizace",
+        "PN": "700 30",
+        "village": "Ostrava-Zábřeh"
+    },
+    "authors": [
+        "Johanka Ľahká",
+        "Alice Beranová",
+        "Ema Kubánková"
+    ],
+    "files": {
+        "images": [
+            "image1.jpg",
+            "image2.jpg"
+        ]
+    }
+}

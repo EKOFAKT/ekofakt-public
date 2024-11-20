@@ -9,7 +9,8 @@
     ],
     "files": {
         "images": [
-            "image0.jpg"
+            "image0.jpeg",
+            "image.jpg"
         ]
     },
     "story": "story.txt"
