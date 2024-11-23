@@ -15,6 +15,7 @@
         "folder": "K1.2"
     },{
         "project": "Liška obecná",
+        "winner": true,
         "category": {
             "age": 1,
             "creation": 2
@@ -36,6 +37,7 @@
         "folder": "K1.5"
     },{
         "project": "Hyena skvrnitá",
+        "winner": true,
         "category": {
             "age": 1,
             "creation": 2
@@ -141,6 +143,7 @@
         "folder": "K2.10"
     },{
         "project": "SEN MALÉ DÍVKY",
+        "winner": true,
         "category": {
             "age": 1,
             "creation": 1
@@ -190,6 +193,7 @@
         "folder": "K2.15"
     },{
         "project": "Robot EKOBOT",
+        "winner": true,
         "category": {
             "age": 1,
             "creation": 1
@@ -197,6 +201,7 @@
         "folder": "K1.13"
     },{
         "project": "Ekohrdina Kristián",
+        "winner": true,
         "category": {
             "age": 1,
             "creation": 1
@@ -204,6 +209,7 @@
         "folder": "K1.14"
     },{
         "project": "Ekohrdina LOGO",
+        "winner": true,
         "category": {
             "age": 1,
             "creation": 1
@@ -218,6 +224,7 @@
         "folder": "K1.16"
     },{
         "project": "Ekohrdinka Olga",
+        "winner": true,
         "category": {
             "age": 1,
             "creation": 1
@@ -239,6 +246,7 @@
         "folder": "K1.19"
     },{
         "project": "Ekohrdinka Hana",
+        "winner": true,
         "category": {
             "age": 1,
             "creation": 1
@@ -246,6 +254,7 @@
         "folder": "K1.20"
     },{
         "project": "Ekohrdinka Rozárka",
+        "winner": true,
         "category": {
             "age": 1,
             "creation": 1
@@ -302,6 +311,7 @@
         "folder": "K1.22"
     },{
         "project": "Jak se zrodil Ekohrdina",
+        "winner": true,
         "category": {
             "age": 1,
             "creation": 2
@@ -316,6 +326,7 @@
         "folder": "K1.24"
     },{
         "project": "Tadeášův Ekohrdina",
+        "winner": true,
         "category": {
             "age": 1,
             "creation": 1
@@ -351,6 +362,7 @@
         "folder": "K1.29"
     },{
         "project": "Ekohrdina od Aničky",
+        "winner": true,
         "category": {
             "age": 1,
             "creation": 1
@@ -372,6 +384,7 @@
         "folder": "K1.32"
     },{
         "project": "Ekohrdinové od Nely",
+        "winner": true,
         "category": {
             "age": 1,
             "creation": 1
@@ -379,6 +392,7 @@
         "folder": "K1.33"
     },{
         "project": "Ekohrdinové od Niny",
+        "winner": true,
         "category": {
             "age": 1,
             "creation": 1
@@ -386,6 +400,7 @@
         "folder": "K1.34"
     },{
         "project": "Ekohrdinové v akci",
+        "winner": true,
         "category": {
             "age": 1,
             "creation": 1
@@ -414,6 +429,7 @@
         "folder": "K2.23"
     },{
         "project": "MŮJ HRDINA",
+        "winner": true,
         "category": {
             "age": 1,
             "creation": 2
@@ -421,6 +437,7 @@
         "folder": "K1.37"
     },{
         "project": "VESELÁ OPIČKA",
+        "winner": true,
         "category": {
             "age": 1,
             "creation": 2
@@ -428,6 +445,7 @@
         "folder": "K1.38"
     },{
         "project": "MOJE OPIČKA",
+        "winner": true,
         "category": {
             "age": 1,
             "creation": 2
@@ -561,6 +579,7 @@
         "folder": "K2.39"
     },{
         "project": "Můj ekohrdina - Strakapoud velký",
+        "winner": true,
         "category": {
             "age": 1,
             "creation": 2
@@ -575,6 +594,7 @@
         "folder": "K2.41"
     },{
         "project": "Můj ekohrdina - Včela medonosná",
+        "winner": true,
         "category": {
             "age": 1,
             "creation": 1
